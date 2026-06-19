@@ -106,3 +106,10 @@ Read the tutorial:
 [How to Compress Images in the Browser Using JavaScript]
 
 https://dev.to/khurram_shahbaz_2074590a5/how-to-compress-images-in-the-browser-using-javascript-1g11
+
+
+## Product Page
+
+Follow the product on Indie Hackers:
+
+[ImagesCompression.com on Indie Hackers](https://www.indiehackers.com/product/images-compression)
