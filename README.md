@@ -104,6 +104,9 @@ MIT License.
 - [How to Compress Images in the Browser Using JavaScript](https://dev.to/khurram_shahbaz_2074590a5/how-to-compress-images-in-the-browser-using-javascript-1g11)
 - [Why Browser-Based Image Compression Is Useful for Online Forms and Websites](https://medium.com/@comkeniallc/why-browser-based-image-compression-is-useful-for-online-forms-and-websites-1b843617ad70)
 
+## Product Updates
+
+- [ImagesCompression.com launch post on LinkedIn](https://www.linkedin.com/posts/advocate-khurram-shahbaz-7153b3253_i-recently-launched-imagescompressioncom-share-7473800405580378112-ipxH/)
 
 
 ## Product Page
