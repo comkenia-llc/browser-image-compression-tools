@@ -99,13 +99,11 @@ Browser-based image compression can be useful when you want fast image processin
 MIT License.
 
 
-## Article
+## Articles
 
-Read the tutorial:
+- [How to Compress Images in the Browser Using JavaScript](https://dev.to/khurram_shahbaz_2074590a5/how-to-compress-images-in-the-browser-using-javascript-1g11)
+- [Why Browser-Based Image Compression Is Useful for Online Forms and Websites](https://medium.com/@comkeniallc/why-browser-based-image-compression-is-useful-for-online-forms-and-websites-1b843617ad70)
 
-[How to Compress Images in the Browser Using JavaScript]
-
-https://dev.to/khurram_shahbaz_2074590a5/how-to-compress-images-in-the-browser-using-javascript-1g11
 
 
 ## Product Page
