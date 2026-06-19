@@ -1,8 +1,7 @@
 {
   "name": "browser-image-compression-tools",
   "version": "1.0.0",
-  "description": "Browser-based image compression examples for JPG, PNG, WebP, AVIF, target KB compression, resizing and image conversion.",
-  "main": "index.js",
+  "description": "Browser-based image compression examples for JPG, PNG, WebP, target KB compression, resizing and image conversion.",
   "scripts": {
     "check": "node --check examples/compress-jpg.js && node --check examples/compress-png.js && node --check examples/compress-to-target-kb.js && node --check examples/resize-image.js && node --check examples/jpg-to-webp.js"
   },
@@ -13,7 +12,9 @@
     "webp",
     "browser-image-processing",
     "target-kb-compression",
-    "resize-image"
+    "resize-image",
+    "image-optimizer",
+    "online-image-compression"
   ],
   "author": "ImagesCompression.com",
   "license": "MIT"
